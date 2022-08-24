@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "\"This is a directory tp learn git and node\"",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sohamy1999/UIprac.git"
+  },
+  "author": "Soham Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sohamy1999/UIprac/issues"
+  },
+  "homepage": "https://github.com/Sohamy1999/UIprac#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
